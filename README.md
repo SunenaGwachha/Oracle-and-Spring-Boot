@@ -25,6 +25,9 @@ Application.Properties
 #Basic Spring Boot Config for Oracle
 
 spring.datasource.url= jdbc:oracle:thin:@localhost:1521:xe
+
 spring.datasource.username=system
+
 spring.datasource.password=root123!
+
 spring.datasource.driver-class-name=oracle.jdbc.OracleDriver
