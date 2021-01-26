@@ -20,6 +20,8 @@ https://www.youtube.com/watch?v=qAwoCunjs94
 
 
 Application.Properties
+
+
 #Basic Spring Boot Config for Oracle
 
 spring.datasource.url= jdbc:oracle:thin:@localhost:1521:xe
